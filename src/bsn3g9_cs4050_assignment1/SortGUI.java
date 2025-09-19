@@ -148,10 +148,10 @@ public class SortGUI {
 			quick.setForeground(Color.BLUE);
 			//The radix button text will be the colour blue
 			radix.setForeground(Color.BLUE);
-			//The scramble button's text will be blue
-			scramble_button.setForeground(Color.BLUE);
-			//setting the font of scramble button
-			scramble_button.setFont(new Font("Arial", Font.BOLD, 15));
+            //The scramble button's text will be blue
+            scramble_button.setForeground(Color.BLUE);
+            //setting the font of scramble button
+            scramble_button.setFont(new Font("Arial", Font.BOLD, 15));
 			//A Panel to hold the radio_button_selection and set the GridLayout
 			JPanel radio_button_selection_Panel = new JPanel(new GridLayout(9, 1, 1, 1));
 
